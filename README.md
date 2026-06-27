@@ -61,7 +61,18 @@
 </p>
 
 <br/>
+## 🤝 Connect with me
 
+<p align="left">
+  <a href="href="https://linkedin.com/in/addis-legesse-261589333"">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:addisyizu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
 
 
 <br/>
